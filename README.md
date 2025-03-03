@@ -22,11 +22,6 @@ Este proyecto analiza datos meteorológicos de Chicago en 2017 junto con datos d
   cd Project_Taxi_sp8
   ```
 
-## Uso
-Ejecutar el script principal:
-```bash
-python main.py
-```
 
 ## Resultados
 - Gráficos que muestran las tendencias de viajes de taxi en función del clima.
